@@ -30,7 +30,9 @@
   "main": "index.js",
   "name": "nextjs-server-mismatches",
   "scripts": {
-    "start": "next"
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
   },
   "version": "1.0.0"
 }
